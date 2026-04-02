@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unknow.com/sitemap.xml
